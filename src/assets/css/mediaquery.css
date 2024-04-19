@@ -1,0 +1,66 @@
+@media screen and (max-width: 1386px) {
+  body {
+    background: #c5e9f5;
+  }
+  .nav-item {
+    display: none;
+  }
+  .logo {
+    width: 83px;
+    height: 83px;
+  }
+  .getCont {
+    padding: 10px;
+    flex-direction: column-reverse;
+  }
+
+  .headphoneImg {
+    width: 272px;
+    height: 272px;
+  }
+
+  .nav-icon > img {
+    width: 26px;
+    height: 20.7px;
+  }
+
+  .cont-lead {
+    font-family: QuattrocentoSans-bold;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 38.44px;
+    text-align: center;
+  }
+  .cont-text {
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 19.52px;
+    text-align: center;
+  }
+
+  .btngroup {
+    gap: 10px;
+    margin: auto;
+
+  }
+  .buy {
+    width: 139px;
+    height: 44px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: center;
+  }
+  .explore {
+    width: 58px;
+    height: 24px;
+    border: 0;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: center;
+  }
+}
