@@ -32,7 +32,8 @@ body {
 }
 
 .hamburger-react {
-  color:  #123D6D
+  color:  #123D6D;
+  display: none;
 }
 
 .headphoneImg {
